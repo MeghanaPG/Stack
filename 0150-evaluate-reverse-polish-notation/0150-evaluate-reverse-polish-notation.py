@@ -19,5 +19,3 @@ class Solution:
             else:
                  myStack.append(c)
         return int(myStack[0])
-
-
