@@ -21,3 +21,4 @@ class Solution:
         # return True if stack is empty else false 
         return True if not stack else False 
         
+        
